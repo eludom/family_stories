@@ -1,0 +1,125 @@
+#+title:      Catharine (Kate) Lydia Morrison nee Gould, 1846-1939
+#+date:       [2026-02-19 Thu 14:46]
+#+filetags:   :biography:draft:public:
+#+identifier: 20260219T144624
+#+signature:  1939=morrison=catharine=gould
+#+BIBLIOGRAPHY: family.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+#+OPTIONS: author:t date:t 
+#+OPTIONS: html-postamble:nil
+#+LATEX_COMPILER: pdflatex
+#+LATEX_HEADER: \usepackage{pmboxdraw}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \preauthor{\begin{center}\large}
+#+LATEX_HEADER: \postauthor{\par\normalsize gmj@pobox.com\end{center}}
+#+OPTIONS: email:nil
+#+latex_class: article
+#+latex_class_options: [titlepage]
+#+MACRO: conditional-title (eval (if (org-export-derived-backend-p org-export-current-backend 'latex) "#+OPTIONS: title:t" "#+OPTIONS: title:nil"))
+{{{conditional-title}}}
+#+last_saved: 2026-03-16 14:23
+
+NOTE: This is mostly collection of material to write from.  It is very raw.   Not effort has been made yet to put this into narrative form.  I have a large number of artifacts from her in my house, even in my living room to this day.
+
+
+These are mostly top-of-the-head memories George Jones has of stories about family members, ancestors, artifacts, etc.  These are things I've been told.   There are probably inaccuracies, omissions, embellishments, one-sided stories, etc.  The stories are mostly arranged by person.  Where I have artifacts related to the person, I mention them.   As I know of or have reasonable grounds to speculate on financial situations I do.    With every generation incalculable amounts of information is lost.  With these write-ups, I'm making a small attempt at stanching the flow.   My primary audience is my own family.   My hope is these articles will give you a little more idea where you came from, what sorts of trials your family has faced and how we were a part of the larger flow of human events.
+
+* Catharine (Kate) Lydia Morrison nee Gould, 1846-1939
+
+** What's in a name?
+Pick a name, any name... 
+
+"Kate Morrison" seems to be the name most used informally (church meeting minutes,
+etc). Her tombstone reads "Catharine L. Morrison", and I also have "Catharine Morrison"
+in what I think is her own handwriting (the cover to a 1936 Methodist Hymnal), but
+there are numerous references to "Catherine". She was also known as Lydia Catharine
+(not Catharine Lydia), which is what was in my head and also noted as a variant by
+John Bowdle in his genealogy records. Her 1921 letter to the Columbus Dispatch describing
+underground railroad activity in her home community of Lower Salem/Duck Creek was
+signed "Mrs. E.F. Morrison". And of course she was born a Gould. Her own father,
+Ephriam Gould, who's spelling was atrocious, referred to her as "Catherine" and "Cate"
+in his account book.
+
+Maybe the moral is "Don't give you kids names with uncommon spellings", like "Bryan".
+
+The ambiguity continued with her oldest child.  Per Philip Morrison (her nephew):
+
+#+begin_quote
+"Aunt Myrta --that was what she was called. It was always pronounced as
+Myrtie. I think her given name was Martha."
+#+end_quote
+
+** Intro
+Yesterday (2026-01-18) I (George Morrison Jones) stopped at Lower Salem, Ohio on my way home from Columbus/London.  I drove down I-77 on a lark just to go a different way and saw "Lower Salem" on an exit sign, so I went.  I had last been there in the 90s with Mom, Dad, Bryan and Steph.  The 13 (or 17) year locusts were out then.
+
+She was born in 1846, likely at the Gould farm just down the hill from "Gould's Church" a.k.a. "Mount Ephraim" in Washington County, Ohio (9 Hedrick Rd, Lower Salem, OH 45745) on "Duck Creek".   She died in 1939 at the Morrison farm in Union Township, Ross County Ohio on the Allbright-Mill Rd.  She married Elisha Ford Morrison April 2, 1868 in Washington County ... inference, it had to be at "Mount Ephraim".    Per John Bowdle's records, she had attended Mt. Union College prior to marriage and had been a teacher ...women attending college in the 1860s was, I think, not common.  Education seems to have been important in much of our family.  "Aunt Myrte" ("Myrta") was born December 24 in Ross county, so they had to have moved up soon after marriage.   I think most/all of the Morrison clan moved up to what is now the "Morrison Road" in Union Township about that time, including his father Maurice/"Morris" Morrison and "Uncle Billy".  The Bowdles had already been there almost 70 years (1800).
+Elisha had served in the Civil War.
+
+Myrta Morrison born December 24, 1868 in Union Township, Ross County, Ohio.   The story (from the John Bowdle, her grandson) was that they lived in a log cabin on the Morrison road and that she remembered walking over the hill behind the wagon when they moved to the Morrison Farm (Now 373 Albright Mill Rd).  The rest of her siblings (including my grandfather George Morrison) where all born at the farm.  She would later marry into the Bowdle family and move back over the hill.
+
+I was told Grandpa (George Morrison) remembered seeing an old log cabin in his youth that had gun-slits in it to shoot out of to protect from Indians.  My memory says I was told it was on the hill next to the Bowdle-Morrison cemetery off the Bowdle Road.  Maybe this is a conflation with the cabin Myrta was born on ?on the Morrison Road?.
+
+** Artifacts
+
+I have quite a few artifacts in my house that belonged to Kate Morrison or were associated with her.
+I think this is just an consequence of the way households have been broken up over the past 150 years when people died.  This stuff, and some of the associated stories, have just come to me.
+
+- 1936 Methodist Hymnal :: I have her 1936 Methodist hymnal.  She signed and dated it: "Mrs. Catharine Morrison, April 2, 1936".   About 6 weeks after my mother (Lois Morrison, named for her mother) was born.
+  Apparently singing was so important that at the age of 90 she got a new hymnal.
+
+  And here we have another spelling/name controversy.  If she wrote her own name in that hymnal, as I think likely, she spelled Catharine with an "a".  It is also written this way in the death record in the Morrison family bible.  In the Gould family bible the marriage name is recorded as "Kate L. Gould".
+  Names were fluid  back then.
+
+  - Ephriam Gould's cain :: I have Ephriam Gould's cain.  My guess is the family member that was caring for him in his last days (daughter Anna ?) kept it, and it has simply come down the generations to me.
+
+  - Clock :: I have the wind-up clock that she got when she "set up housekeeping" in 1868.  Grandma (Esther Morrison) had it repaired in the 1970s.  It works fine.  It chimes on the hour.   You have to wind it, adjust the speed and correct the time now and then.  It's analog.
+
+  - Cookbook and Housekeeping Guide :: "Bad dinners go hand in hand with total depravity, while a properly fed man is already half saved".  No really.  Not making this up.  This was combined theological, culinary and domestic advice given by the "Buckeye Cookery and Practical Housekeeping" book of 1877.  Later sections dealt the "the help" implying that "the girls" you hire are always unreliable, lazy and out bilk you.
+    Grandma (Esther Morrison) was hired in as "help".   Hope this advice went unread.  Grandma was the hardest worker I've seen in my life and was at times obsessive about neatness, perfect designs on pie crusts, etc.
+    There is an insert in the front saying the book was written by and for women and sold by women agents and soliciting new agents to sell to their friends.  Multilevel Marketing 19th century style.  "Avon calling".
+
+  - Large walnut cabinet and dates :: I have a walnut cabinet.  The note inside says
+
+    #+begin_quote
+    1865 Walnut Cabinet.
+
+    This walnut cabinet was made in 1865 in Union Township, Ross County, Ohio, by Mr. Shetstone of Marietta, Ohio, a carpenter who traveled to Union Township specifically to make this one cabinet for Morris Morrison
+
+    Two Whetstone brothers were carpenters, and it is not know which one made the cabinet.  Information obtained Christmas Day, 1969, from Mr. George L. Morrison (grandson of Morris), of 369 Franklin Court, Worthington, Ohio 43085.
+    #+end_quote
+
+    When I was at Mt. Ephriam this week I noted that there were about 10 Whetstone's in the graveyard,
+    so, "Marietta" in this case almost certainly meant "Duck Creek"/Lower Salem. 
+
+    I think the Morrisons moved from Lower Salem/Duck Creek to Union Township, Ross County in early 1866.
+    This is based on the fact that Ephriam Gould's farm financial records (which I have) listed fairly regular transactions with Morris Morrison (Ephriam's Father), and the last one listed as March 1866. 
+    
+ If dates are correct, it puts the move of at least part of the Morrison family to Ross County three years before the marriage of Kate and Elisha in Washington County. It also puts an upper bound of 1969 on the sale of the Morrison farm in Ross County as the proceeds would have been needed to buy the house on Franklin Ct. Since Myrta remembered walking to the farm behind the wagon, it's purchase could not have been much before 1870, putting the Morrison family on the Albrigh Mill Road around 98 years. Uncle Ernie was, I think, the only one to live his whole life there.
+
+    The cabinet likely started life in the Morris Morrison farm on the Morrison Road,
+    and at some point moved to the E.F. Morrison farm on the Albright Mill Rd.
+    After that (1969 to 1996) it was in
+    our house in Flint Road and moved with Mom (Lois Jones) to their house on McGregor.
+    I think it moved here (our hours in Virginia) in 2003, so in 150 years it has likely
+    only moved 5 times.
+
+** Family Bibles, Genealogies
+
+I have two large family bibles.   I think one is Gould family and the other Morrison.  The both have hand-written birth, death and Marriage records, one as far back as the late 18th century.  They are still kept current.
+
+** Keepsake Box
+
+I have Kate Morrison's keepsake box.   Some of the contents were distributed to various memebers of our (Jones) family on the death of Lois Morrison Jones, per her written instructions.   Prior to that at least,
+it contained a multitude of items ranging from Civil War reunion medals, to the 1880's records of the sale of windows used to add a 2nd story to the Morrison Farm, to the deeds to the farm, etc. 
+
+* Writings
+*** 1921 letter to Columbus Dispatch about Underground Railroad Activity
+I have a copy of a 1921 letter she wrote to the Columbus Dispatch describing anti-slavery/underground railroad activity in her home community.  There is a barn (still standing, 2026) on what as the Gould farm just down
+the hill from Mt. Ephriam church that was built by one of the Morrisons for Ephriam Gould.  The letter details Ephriam Gould hiding run-away slaves in the barn and refusing entry to the slave catchers (property rights, dontcha know?).  Lower Salem was just 16 miles north of the Marietta and the Ohio River and the Gould farm was just a few miles out of town.  It was likely the 2nd stop on the way to Canada north of the Ohio river in that area.
+
+*** Dry Run Church Mission Society Minutes
+
+I am in possession of constitution and minutes of the Dry Run Womens Foreign Mission Society which seems to have been active 1871 to 1904.  "Kate Morrison" is listed as a member most of that time.  Her sister Anna Gould ("Auntie") was secretary most of that time.  The same notebook had originally been the constitution and minutes of the "Union Soldiers Aid Society", 1863-1864 with much overlapping membership, though the Morrisons/Goulds apparently moved up from Noble/Washington County right after the war.  E.F. Morrison had been a Union soldier from a unit in Noble county.
+*** Newspaper article about her 90th birthday
+
+

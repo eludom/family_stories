@@ -1,0 +1,378 @@
+#+title:      George Leonard Morrison, 1885-1974
+#+date:       [2026-03-15 Sun 17:33]
+#+SUBTITLE: From horse and buggy to the moon landing
+#+Author: George Morrison Jones
+#+signature:  1974=morrison=george
+#+email: gmj@pobox.com
+#+filetags:   :biography:public:
+#+identifier: 20260315T173357
+#+BIBLIOGRAPHY: family.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+#+OPTIONS: author:t date:t 
+#+OPTIONS: html-postamble:nil
+#+LATEX_COMPILER: pdflatex
+#+LATEX_HEADER: \usepackage{pmboxdraw}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \preauthor{\begin{center}\large}
+#+LATEX_HEADER: \postauthor{\par\normalsize gmj@pobox.com\end{center}}
+#+OPTIONS: email:nil
+#+latex_class: article
+#+latex_class_options: [titlepage]
+#+MACRO: conditional-title (eval (if (org-export-derived-backend-p org-export-current-backend 'latex) "#+OPTIONS: title:t" "#+OPTIONS: title:nil"))
+
+#+last_saved: 2026-03-16 13:48
+
+
+
+{{{conditional-title}}}
+
+* Intro
+  George Leonard Morrison was born in 1885 and died in 1974. His life spanned the age of
+  horse and buggy to the moon landing.
+
+  George was born just as the American West was closing. As a young
+  man, he went west to work as a cook, following the wheat harvest
+  north across the Great Plains, traveled as far away as Idaho with a
+  cousin, worked (possibly in the mines) in Hibbing, Minnesota where
+  his brother Fred lived, and was scammed in a land deal in Roswell,
+  NM. He sang in a barber shop quartet.
+
+  During his life, George saw the invention of the automobile, the
+  airplane, the telephone, movies, records, radio, TV, the atomic
+  bomb, and rockets that took men to the moon and back.  As someone
+  raised with the 19th century idea of "progress" I'm sure it was all
+  amazing, but not totally unexpected.
+
+  On the world-events front, he saw WW I, the rise of communism in
+  Russia and China, the Depression, WW II, the effective end of the
+  British empire, and wars in Korea and Vietnam.
+
+* From Duck Creek to Ross County
+
+ George's father, Elisha Ford Morrison, was veteran of the Union
+ army. I still have some of his Grand Army of the Republic (GAR)
+ reunion memorabilia and medals. Mike has his rifle. It was picked up
+ on the battlefield after his original rifle stopped a bullet that
+ would likely have killed him (and this narrative). He was at the
+ battle of Vicksburg. We have copies of his diary from the war. He
+ married Lydia Catharine (Kate) Gould in 1868.
+
+ The Morrison family moved from Lower Salem/Duck Creek, Ohio (14 miles
+ north of Marietta/the Ohio River) to Ross County just after the
+ Civil War, 1866 I think. George was the baby of the family of 6
+ children. The Morrisons initially lived near the Bowdles (my 2nd
+ cousins), on what is now called The Morrison Road. The Bowdle farm was in the
+ same family 1800-~2010.
+
+ Ties to "Duck Creek" remained strong for several generations. There
+were trips to reunions and family events (Goulds) in Duck Creek/Lower
+Salem. George's cousin Charlie Gould, a geologist who discovered much
+of the oil in the Southwest, visited his Ross County relatives a time
+or two. George and his brother Ernie thought he was stuck up. Charlie
+Gould's autobiography /Covered Wagon Geologist/ describes the "post-frontier"
+life in the community.
+
+ The community is even mentioned several times in David McCollugh's
+book The Pioneers, which documents the founding of the northwest Territory
+at Marietta. My five-great grandfather Amos Porter was one
+of the early settlers. I still have many family artifacts (family
+Bibles, records, furniture, etc.) from Duck Creek. Even in my Youth,
+we went to Duck Creek to see the graves at "Mount Ephriam"/"Gould's
+Church" and the family barn that was used to hide runaway slaves 14
+miles north of the Ohio river. My great-grandmother wrote an extant
+letter to the Columbus Dispatch detailing those activities.
+
+* The Farm
+
+My great-grandfather Elisha Morrison bought the farm over the hill
+from the Bowdles in 1872. George and the last 4 of his 5 siblings were
+born there, as were Mom and Philip. Our family lived on that farm for
+almost 100 years. I think the house was originally a small with one story
+and was enlarged. I have the receipts (1880s?) for the windows that
+were installed when they expanded. I remember Dad washing the outside
+of the 2nd story windows on a ladder when George was too old to do
+it (and, most likely, when Grandma could not stand to have them dirty).
+
+* Stories from Youth
+The original Bowdle cabin was near where the Bowdle/Morrison cemetery
+is today (Union Township, Ross County, Ohio). George told of having
+seen the cabin in his youth, with slits still
+there for shooting out of (Indians...).
+
+As a boy, George attended the one-room school house (the Bowdle School)
+where his sister Myrtie[fn:1] Morrison (Bowdle) was his teacher. They
+used McGuffey readers and other books, some of which I still have.
+In those days, you learned all 88 Ohio counties, their county seats,
+their chief agricultural output, etc. One day, the story goes, George thought
+he didn't have to mind the teacher because she was his sister, so he
+bit her.
+
+In the early 20th century, neighbor Jake Lapp owned a threshing machine (before
+combines).  He went around to different farms in turn threshing their
+wheat. (Threshing is beating the wheat to remove the stalks and husks and make the seeds fall out.)  I think it was a community event; everyone took turns helping
+on each other's farms.   And the women cooked up a storm for the hungry
+boys.  Pretty sure I saw echos of that in the way Grandma and Aunt
+Bess cooked.
+
+There was apparently an Indian village on the site of the Morrison
+farm at some point, in the area down by the creek (Beirs Run) where it
+crossed the Allbright-Mill Road.   When plowing was done with horses,
+they would often see flint arrow-heads, stone axes etc.  They
+collected a box full of 
+
+* Of Jules Vern, Crokinole, and Pinochle
+As a young man,  George liked the
+science fiction of the then-not-so-old Jules Verne, with stories of
+air travel (written before the Wright Brothers flight), and From the
+Earth to the Moon and Back Again which featured a launch from Florida.
+JFK was not the first person with that idea. I'm told by Nancy Bowdle
+(Bozak) that she also used to go over and borrow Zane Grey novels which she
+liked reading. Per Philip George said "the real difference in the stories
+was that ‘in one, the bad guy was shot in the front, and in another
+in the back.’"
+
+And as with Verne's Philleas Fogg and Whist, it seems games have
+long been a thing in our family.  Some years back, Philip gave me the
+family Crokinole board which, by the looks of it, dates to the 19th
+century and is well-used.  Philip
+tells me that "Uncle Billy and Cousin Clarence 'Fordie' Morrison" would
+often come over to play Pinochle" (perhaps when they lived over the
+hill on the place on the Morrison road?).  I have Grandma's (Esther Morrison)
+dominoes, which I know from personal experience had good use.  The newly-wed Bob and Lois
+Jones (Morrison) reportedly played a lot of Canasta their first winter
+in St. Johns, Newfound, continuing the tradition with Rook and other
+games on rainy days in the camper.  There were innumerable games of
+Risk in my youth.  So, young'ns, don't think you've started any thing
+new with Rail Baron, Civ, Catan, Gravwell, Wingspan, or whatever comes
+next.  It seems our family as LONG enjoyed each other’s company over
+games.
+
+* Marriage
+
+I don't know a lot between George's adventures as a youth and marriage
+to Grandma in 1929 (age 43). Grandma had been working for the Morrisons,
+helping with domestic chores/care as my great-grandmother moved into
+her 80s. Grandma was born in 1910. At the time of her marriage, she was a college freshman
+at Wilmington college, studying to be a teacher. George drove there,
+picked her up, and married her over the river in Maysville, KY
+(I think, due to lower age of consent). The stock market crash happened
+two weeks later, starting the Great Depression.
+
+Philip was born in 1933 and Mom in 1936.
+
+* Farming with horses and the 1939 John Deere Model B
+Farming with draft horses is hard work in your 50s and 60s or if you
+are a 7-year-old boy.  My great-grandmother died in 1939, and after that, they
+bought a 1939 John Deere Model B tractor.  I'm guessing they came into
+a little money when she passed.  She had a survivor’s pension from her
+husband's service in the Union army (wonder if families in the South
+were so lucky? ....)
+
+And, for perspective, Philip remembers to this day (2023-02-20) when
+they were still plowing with the last of the draft horses.  The world
+has changed.   But not that long ago.
+
+* Passing the Torch
+In her last years, my great grandmother Kate Morrison had dementia. Mom, then 3, remembered brushing
+her long hair. Philip remembers saying "Grandma wants to go back to
+Duck Creek again.”  I think at some point we all just want to go "home".
+
+Uncle Ernie died ~1953. His will left his 1/2 of
+the farm to George "for his lifetime" and then to Mom and Philip.
+When the farm was sold around 1968, Mom and Philip had to sign off.
+
+* Martha and Mary
+Grandma was a driven, hard-working perfectionist who could not stand a
+hair out of place and expected the same of those around her.   This
+contrasted with George's more easy-going personality and was a source
+of tension.  The story goes that on a fall day, George could look out
+across the yard and fields and see the beautiful colors on the trees,
+while Grandma could only see the picket fence that needed repair.
+
+Philip recalls an aspect of that:
+
+'I do remember several sayings from Daddy. When
+Mom was on the warpath, he would tell me that'
+
+#+begin_quote
+"A scolding doesn't hurt
+and a whipping doesn't last long."
+#+end_quote
+
+'along with several other quotes. When he wanted me to do something for him and I
+wanted to play with some of my local friends, he would say'
+
+#+begin_quote
+"One boy, whole boy;
+two boys, half boy;
+and three boys, no boy at all.”
+#+end_quote
+
+'When he taught me to drive, he told me to'
+
+#+begin_quote
+"Always drive like you think the other guy is drunk or crazy.”
+#+end_quote
+
+'All of which was good advice. The older I get (and I am now slightly older than he was when he died) the more I miss him and realize how blessed I was to have him as a father.'
+
+* Jacking up the old barn
+When George was in his late 70s, the barn needed a new foundation.
+He decided to jack it up and pour a new one. Dad told him he couldn't
+do it. He did. And the initials of all 4 (then) of the grand-kids (me
+included) were written in the foundation.   Sadly, the barn burned
+some years after they sold the farm.
+
+* Bringing in the Sheaves
+When you're pushing 80, it's hard to bring the hay bales in from the
+field and put them in the hay mow.  Fortunately, about that time,
+there were a passel of Bowdle Boy (my 2nd cousins ) in their teens and
+20s who came over and did the job.  George drove
+the tractor.   Mike and I rode on top of the hay bales on the wagon
+and later threw some down, getting into big trouble.
+
+But it got to the point that George could no longer jack up barns, drive
+Tractors, or fix the broken fences that annoyed Grandma, so they sold
+the farm and moved to Worthington to be near us/Mom.  There was a big
+sale with 100 years of stuff on tables outside and lots of strangers
+buying things.  I remember being there as a young child thinking how odd it was. The tractor was sold.
+
+* Later Years
+My clearest memories of George are, unfortunately, from his declining
+years. Laurence Welk was a thing. Newspapers were a thing. We watched
+the last out of the '72 world series together on TV (in part sparking
+me to 45 years of following the Reds). He had lots of odd little words
+and sayings. Your "pie hole" (mouth). "Bubbles" (Kix cereal). "Slip-downs"
+(noodles). "Fiddle-sticks.” "Oh, Pshaw.”
+
+In his final years, his Parkinson's disease advanced and his hands shook
+all the time. Mom and Grandma later had his armchair re-upholstered because
+he had worn it bare. He had to use a walker. Mom and Grandma cared
+for him at home his final days. Today, in such situations, we usually
+involve professional help, but their model was caring for your own.
+They were both burned out at the end.  His last meal was stewed
+rhubarb.
+
+The moon landing happened a few years after they moved, with Neal Armstrong,
+from one those memorized Ohio counties, walking on the moon 66 years
+after two brothers from another Ohio county had made the first powered
+flight. The world had changed. Anything seemed possible. The day he
+died, Mark and I were on the couch designing model rockets.
+
+What a time to have been alive!
+
+* About this narrative
+ This was written almost entirely from memory. Very little attempt
+has been made to check dates, names, etc. The goal was to capture experiences,
+memories, and oral history, as I have been told family stories, some
+of which go back to the 1800s. I used what I know of financial circumstances
+as loose writing prompts and to structure the narrative.
+
+* Credits
+  - Philip Morrison :: Initial reading, added stories, fact checking.
+  - John Bowdle :: Genealogy
+  - Trish Jones :: Proof Reading, Professional Editing
+  - Lois Morrison Jones, Esther Morrison :: For telling me most of
+    what's in this narrative.
+* Feedback requested
+  Please give me feedback on:
+
+  - More stories, oral tradition, personal memories (stuff in your head)
+    + The focus is NOT genealogy, dates, fact-checking per-se
+  - What was most interesting?
+  - What was boring or confusing?
+  - What would you like to know more about?
+  - What could be left out?
+
+* APPENDIX: TIMELINE
+  |  WHEN | WHAT                       | TYPE       | WHERE             | WHO                                     |
+  |-------+----------------------------+------------+-------------------+-----------------------------------------|
+  |  1885 | Born                       | Life Event |                   | Mr & Mrs. E.F. Morrison                 |
+  |  1906 | Father Dies                | Life Event |                   | E.F. Morrison                           |
+  |  1929 | Married                    | Life Event | Maysville, KY     | Esther Josephine Free                   |
+  |  1933 | Son Born                   | Life Event | Farm, Ross Co. OH | Philip Lee Morrison                     |
+  |  1936 | Daughter Born              | Life Event | Farm, Ross Co. OH | Lois Elaine Morrison (Jones)            |
+  |  1939 | Mother Dies                | Life Event |                   | Lydia Catharine (Kate) Gould (Morrison) |
+  | ?1939 | Bought Tractor             | Financial  |                   |                                         |
+  | ?1967 | Move to Worthington        | Move       | Worthington, Ohio |                                         |
+  |  1968 | Sold Farm                  | Financial  |                   |                                         |
+  |  1974 | Died, Old Age + Parkensons | Life Event | Worthington, Ohio |                                         |
+
+* APPENDIX: Keeping the names straight (who begat who...) 
+
+Genealogy is an anti-goal of this writing effort, but there 
+are enough names that it might get confusing without
+a little context.  Contact the author if you are interested
+in more detail.
+
+# This export has to be duplicated in both latex and html
+# I've tried a number of ways to do this with a single
+# export, but XeLaTeX which is required seems not to be
+# working.  See [[denote:20260316T113820][Keeping Unicode Characters in export]]
+
+#+begin_export latex
+\begin{verbatim}
+Amos Porter
+└─Simon Porter
+  └─Lois Porter
+    │
+    m. Ephriam Gould
+    │
+    └─Lydia C. Gould
+      │
+      m. Elisha F. Morrison
+      │
+      ├─Myrtie
+          └─ Grandmother of John Bowdle, etc.
+      ├─Fred
+      ├─Ernie
+      ├─...
+      └─GEORGE L. MORRISON (1885-1974)
+        │
+        m. Esther J. Free
+        │
+        ├─Philip Lee Morrison
+        │
+        └─Lois Elaine Morrison
+          │
+          m. Bob Jones
+          │
+          ├─...
+          └─George M. Jones (author)
+\end{verbatim}
+#+end_export
+#+begin_export html
+<pre>
+Amos Porter
+└─Simon Porter
+  └─Lois Porter
+    │
+    m. Ephriam Gould
+    │
+    └─Lydia C. Gould
+      │
+      m. Elisha F. Morrison
+      │
+      ├─Myrtie
+          └─ Grandmother of John Bowdle, etc.
+      ├─Fred
+      ├─Ernie
+      ├─...
+      └─GEORGE L. MORRISON (1885-1974)
+        │
+        m. Esther J. Free
+        │
+        ├─Philip Lee Morrison
+        │
+        └─Lois Elaine Morrison
+          │
+          m. Bob Jones
+          │
+          ├─...
+          └─George M. Jones (author)
+</pre>
+#+end_export
+
+* Footnotes
+
+[fn:1] In our branch of the family my grandfather's sister was always referred to as "Myrtie".   Her name was Myrta (I have several of her books, etc that she signed).   She was the grandmother of the John Bowdle, etc, hence John Bowdle who has provided me with much genealogical info is my 2nd cousin. 

@@ -1,0 +1,530 @@
+#+title:      A Back Road To Cumberland
+#+subtitle: Washington, Braddock and our trips to 'The Burgh'
+#+date:       [2026-03-12 Thu 16:40]
+#+Author: George Morrison Jones
+#+signature:  1750=enochs=and=washington
+#+email: gmj@pobox.com
+#+filetags:   :colonial:draft:genealogy:public:
+#+identifier: 20260312T164052
+#+BIBLIOGRAPHY: family.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+#+OPTIONS: author:t date:t email:t toc:1
+#+OPTIONS: html-postamble:nil
+#+BIBLIOGRAPHY: family.bib
+#+OPTIONS: author:t date:t 
+#+OPTIONS: html-postamble:nil
+#+LATEX_COMPILER: pdflatex
+#+LATEX_HEADER: \usepackage{pmboxdraw}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \preauthor{\begin{center}\large}
+#+LATEX_HEADER: \postauthor{\par\normalsize gmj@pobox.com\end{center}}
+#+OPTIONS: email:nil
+#+latex_class: article
+#+latex_class_options: [titlepage]
+#+MACRO: conditional-title (eval (if (org-export-derived-backend-p org-export-current-backend 'latex) "#+OPTIONS: title:t" "#+OPTIONS: title:nil"))
+#+last_saved: 2026-03-16 13:50
+#+last_saved: 2026-03-16 13:51
+#+last_saved: 2026-03-16 13:52
+#+last_saved: 2026-03-16 13:54
+#+last_saved: 2026-03-16 13:54
+#+last_saved: 2026-03-16 13:54
+#+last_saved: 2026-03-16 13:59
+#+last_saved: 2026-03-16 13:59
+#+last_saved: 2026-03-16 13:59
+
+
+
+
+
+
+
+
+
+{{{conditional-title}}}
+
+#+last_saved: 2026-03-16 13:38
+
+* We found a shortcut
+
+When we moved from Ohio to Virginia in 2003 we were making frequent trips to Pittsburgh (as Washington did)
+and Ohio to see relatives.   We discovered a "back way" through the little towns of Bloomery and Paw Paw, (now) West Virginia
+that involves a shortcut across a one-lane bridge on Gaston Road.   It turns out shortcut was on land that Washington himself
+surveyed for Henry Enochs Sr. in 1750.  It was Washington's preferred route to Cumberland, MD, which was the staging
+point for both his ill-fated Fort Necessity mis-adventure and his later mis-adventures with General Braddock.
+Washington recommended the construction of ?2? forts on Enoch's property during the subsequent French and Indian
+War when it became the front line of the conflict.   Washington recorded in his diary dining at Enochs
+as late as 1770.  During the revolution "Capitan" Henry Enochs Jr and Enoch Enochs both enlisted.
+
+I'm not going to trace the whole line here, but our Morrison line  traces back to the Enochs.
+
+Below I list
+
+ - Timelines of
+   + Washington's mis-adventures at Ft. Necessity
+   + Washington's mis-adventures with Braddock
+   + The defensive scramble after Braddock's defeat centered on the Enochs property documented in primary sources (see APPENDIX)
+ - A summary of the Enochs/Washington Relationship by "the AIs" (trust or not, you choose) 
+ - A summary of genealogical information about Enoch Enochs (my 4xGreat Grandfather).  Washington surveyed land for him as well as his father.
+ - Primary sources from the national Archives (Washington's diaries, etc)
+
+* Timelines
+** 1753-1754 Fort Necessity Timeline
+Timeline of Events Leading to and Including the Battle of Fort Necessity
+
+| Date                             | Event                                                                                                                                                      |
+|----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1753                             | Young George Washington delivers British ultimatum to French, demanding they evacuate the Ohio Territory (Allegheny Expedition)                            |
+| March 15, 1754                   | Governor Robert Dinwiddie orders Washington to depart with 160 men to build a road and defend British interests                                            |
+| Spring 1754                      | Washington establishes Fort Necessity at Great Meadows after finding French already occupying Wills Creek                                                  |
+| May 1754                         | Seneca leader Tanacharison informs Washington of a small French force camped six miles away                                                                |
+| May 1754                         | Washington attacks French forces at Jumonville Glen under cover of darkness; French Ensign Jumonville is killed, 10 French soldiers die, 21 taken prisoner |
+| May-July 1754                    | Washington fortifies Fort Necessity in anticipation of French retaliation                                                                                  |
+| July 3, 1754 (Morning)           | French force of 500 men and 100 Native American allies appear at Fort Necessity's tree line                                                                |
+| July 3, 1754 (Afternoon-Evening) | Standoff battle occurs in torrential downpour with heavy casualties on both sides                                                                          |
+| July 3, 1754 (Late Evening)      | Washington surrenders Fort Necessity; unwittingly acknowledges role in Jumonville's assassination                                                          |
+| July 4, 1754                     | Washington's depleted force departs Fort Necessity in defeat                                                                                               |
+
+Summarized from:
+https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/fort-necessity
+
+** 1755 Braddock Timeline
+*** Timeline form Primary Sources
+Braddock's defeat; the journal of Captain Robert Cholmley's batman, the journal of a British officer [and] Halkett's orderly book
+https://archive.org/details/braddocksdefeatj00hami
+
+#+begin_verse
+As shown in Capt. Cholmley’s Batman (Dunbar’s Regiment):
+May 5, Monday marched to Henry Enoch’s
+July 9 Battle
+July 13, Sunday Braddock dies in the evening
+July 14, Monday march a short distance and bury Gen. Braddock; marched on
+August 4, marched to Enoch’s
+ 
+As shown in Halkett’s Orderly Book
+(note orders are usually for the next day)
+May 8-10 dated the waters of Cape Capon
+May 11 dated camp betwixt Enoxes & Coves
+July 9 Battle
+#+end_verse
+*** Timeline from Secondary Sources
+Fort Edwards was another in the line of forts that Washington recommended be built along with Fort Enochs.
+Fort Edwards has been reconstructed.   There is a Fort Edwards Foundation that promotes it.
+See this link https://www.fortedwards.org/braddock/timeline.htm for their timeline of the Braddock expedition
+and other related history.
+** Post-Braddock Timeline: The Enochs Property and Washington's Frontier Defense
+
+Based on the primary sources below, here is a chronological timeline of events following Braddock's defeat in July 1755:
+
+| Date                | Event                                                                                                                                                                          | Source                    |
+|---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------|
+| *July 9, 1755*      | Braddock's defeat at the Battle of the Monongahela                                                                                                                             | Braddock's Defeat journal |
+| *July 13, 1755*     | General Braddock dies                                                                                                                                                          | Braddock's Defeat journal |
+| *August 4, 1755*    | Retreating army marches to Enoch's                                                                                                                                             | Capt. Cholmley's Batman   |
+| *October 6, 1755*   | Washington issues march orders; troops to arrive at Henry Enocks on October 23rd                                                                                               | Orders, 6 October 1755    |
+| *November 7, 1755*  | Adam Stephen reports stationing a party at Henry Enoch's on Cape Capon to prevent settlers from abandoning the valley; recommends party at Enoch's as part of frontier defense | Stephen to Washington     |
+| *November 22, 1755* | Stephen reports 17 men + 1 sergeant stationed at "Enock's Mill"                                                                                                                | Stephen to Washington     |
+| *March 2, 1756*     | Robert Orme references "the Palace of Enoch Enoch's" where Braddock's staff had stopped                                                                                        | Orme to Washington        |
+| *April 7, 1756*     | Washington orders Lt. Blagg to maintain communication with Ensign Hubbard at Enochs                                                                                            | Washington to Blagg       |
+| *April 21, 1756*    | Washington writes to Capt. Harrison about potentially aiding Hubbard's retreat from Enochs                                                                                     | Washington to Harrison    |
+| *April 23, 1756*    | Council of War unanimously decides Fort Enochs should be "immediately evacuated and burnt" to prevent enemy use                                                                | Council of War            |
+| *April 23, 1756*    | Washington orders Ensign Hubbard to evacuate and destroy the fort at Enochs                                                                                                    | Washington to Hubbard     |
+| *May 11, 1756*      | Reports of Indians seen on road between Winchester and Enock's                                                                                                                 | Orders, 11 May 1756       |
+| *May 15, 1756*      | Despite earlier evacuation order, militia posted to Enock's: Lt. Bebb with 2 sergeants and 35 men from Louisa                                                                  | Orders for Militia        |
+| *May 16, 1756*      | Orders given to Lt. Bebb at Henry Enocks's                                                                                                                                     | Memoranda                 |
+| *July 10, 1756*     | Council of War discusses building chain of forts; decides second fort should be built "at or near to Henry Enocks's plantation on great capecapon"                             | Council of War            |
+| *October 8, 1770*   | Washington passes through, notes "the Fort at Henry Enochs" is 8 miles from Pritchards (road "exceedg. bad")                                                                   | Diary entry               |
+| *November 28, 1770* | Washington dines at "Henry Enochs at the Fork of Cacapehon"                                                                                                                    | Diary entry               |
+
+* Washington and Enochs - What the AIs think
+This is an AI (Claude) summary of the primary sources above:
+
+PROMPT:  Given the information below,  Describe the relationship between George Washington and The Enochs Family.
+
+Based on the primary sources in this document, George Washington had a *professional and strategic relationship* with the Enochs family spanning over two decades, primarily through three contexts:
+
+*** 1. Surveyor-Client Relationship (1749-1753)
+Washington professionally surveyed lands for the Enochs family:
+- *April 1750*: Surveyed 388 acres for *Henry Enoch* at the fork of Cacapon and North rivers
+- *April 1751*: Surveyed 168 acres for *Enoch Enoch* on the Potomac River
+- An undated survey of 271½ acres on Little Cacapon River for Henry Enoch
+
+*** 2. Military Logistics During the French and Indian War (1755-1756)
+Henry Enoch's property served as a *critical waypoint* on Braddock's Road:
+- *May 1755*: Braddock's troops marched through, stopping at "Henry Enoch's"
+- *August 1755*: The retreating army returned via Enoch's after Braddock's defeat
+- Washington's march routes in October 1755 included Enoch's as a designated stop
+
+*Enoch's Fort* became a key defensive position:
+- Washington stationed troops there (17 men + 1 sergeant in November 1755)
+- Ordered its evacuation and burning in April 1756 during Indian raids
+- Later recommended rebuilding it as part of a chain of frontier forts
+
+*** 3. Continued Familiarity (1770)
+Washington's diary entries show he still knew the location well, dining at "Henry Enochs at the Fork of Cacapehon" during his 1770 western journey.
+
+The relationship was fundamentally *utilitarian*—the Enochs' strategic location made them essential to Virginia's frontier defense.
+
+* Enoch Enochs (1750–~1835) - Summary
+This is a summary of information collected by John Bowdle about Enoch Enochs.
+
+*Revolutionary War Patriot* who served as Captain in the Pennsylvania/Virginia frontier forces, enlisting in 1774 under his brother Colonel Henry Enochs.
+
+*Key highlights:*
+- Born in Hampshire County, VA (now WV); died in what became Noble County, OH
+- Part of a prominent frontier family — described as "Buckskin era" settlers of German extraction
+- Military service spanning the Indian Wars, Revolutionary War, and War of 1812
+- The Enochs family were early settlers of Noble County, OH, along with connected families: Crows, Grandons, Morris's, and Archers
+- Family noted as Methodist, politically Whig/Republican
+- Buried at Archer Cemetery, Noble County, OH
+
+*DAR documented* — National Number 895450, Pension R3357v
+
+* APPENDIX - Primary Sources - References from the National Archives and other sources
+
+** George Washington’s Professional Surveys, 1749-1752
+  https://founders.archives.gov/documents/Washington/02-01-02-0004
+  #+begin_quote
+  23 April 1750. For Henry Enoch. 388 acres at the fork of Cacapon and North rivers. Granted to Henry Enoch, 22 April 1753.
+  24 April 1751. For Enoch Enoch. 168 acres on Potomac River. Granted to Enoch Enoch, 3 September 1753.
+  Undated Surveys Cited in Northern Neck Grants
+  No date. 271½ acres on Little Cacapon River. Granted to Henry Enoch, 20 February 1761.
+  #+end_quote
+
+  Cite as
+  “George Washington’s Professional Surveys,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-01-02-0004. [Original source: The Papers of George Washington, Colonial Series, vol. 1, 7 July 1748 – 14 August 1755, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, pp. 8–37.]
+
+** Orders, 6 October 1755
+https://founders.archives.gov/documents/Washington/02-02-02-0070
+  #+begin_quote
+  Orders
+  [Fredericksburg, 6 October 1755]
+  As Captain George Mercer of the Virginia Forces, has been appointed aide de camp to Colonel Washington, and declared in Publick Orders at Fort Cumberland ...
+  A Detachment of ... under the Command of Captain Woodward, are to march on Monday next, for Fort-Cumberland,1 and to proceed according to the following March Route: viz.
+  
+  Monday, October the	13	th	To William Pickets
+  ...
+  15		To Joseph Nevils [NOTE: Near where I (George Jones) Live today 2026]
+  ...
+  23		To Henry Enocks
+  #+end_quote
+
+  Cite as
+  “Orders, 6 October 1755,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-02-02-0070. [Original source: The Papers of George Washington, Colonial Series, vol. 2, 14 August 1755 – 15 April 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, pp. 75–77.]
+  
+** Adam Stephen to George Washington, 7 November 1755
+https://founders.archives.gov/documents/Washington/02-02-02-0163  
+  #+begin_quote
+  Adam Stephen to George Washington, 7 November 1755
+  From Adam Stephen
+  Winchester Novr 7th 1755Sir,
+  ... I have found it necessary, to prevent the people from Abandoning This Valley on this Side the blue Ridge, to Send a party of men to Henry Enoch’s on Cape Capo...
+  
+  If a party is not Stationed on Cape Capo, The Enemy may come within four miles of Winchester before they are heard of, and indeed to Secure that Frontier properly Maryland ought to have 100 men at Cressops, 100 at the Conallaways—wt. a party at the Mouth of Little Cape Capo, another at Enoch’s,
+  #+end_quote
+
+  Cite as
+  “Adam Stephen to George Washington, 7 November 1755,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-02-02-0163. [Original source: The Papers of George Washington, Colonial Series, vol. 2, 14 August 1755 – 15 April 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, pp. 158–162.]
+  
+** Adam Stephen to George Washington, 22 November 1755
+https://founders.archives.gov/documents/Washington/02-02-02-0182
+*** Excerpt
+#+begin_quote
+Adam Stephen to George Washington, 22 November 1755
+From Adam Stephen
+Winchester Novr 22d 1755Dr Sir,
+... 
+. The State of Your Regimt in these parts, is nearly this
+
+At Fort Cumbld Effectives: pt. 280 & 40 Serjeants a great Number of Corps.
+
+At Enock’s Mill.        pt.     17      1 Serjt
+
+Adam Stephen
+
+ALS, DLC:GW.
+
+
+CITE AS
+“Adam Stephen to George Washington, 22 November 1755,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-02-02-0182. [Original source: The Papers of George Washington, Colonial Series, vol. 2, 14 August 1755 – 15 April 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, pp. 177–179.]
+#+end_quote
+
+[2026-03-12 Thu 15:35]
+
+** Robert Orme to George Washington, 2 March 1756
+  https://founders.archives.gov/documents/Washington/02-02-02-0319
+  #+begin_quote
+  Dr George March the 2d 1756
+  ...
+  
+  I dont know whether a good House and comfortable Living is not as well as the Palace of Enoch Enoch’s.5
+   
+  Robt Orme
+  #+end_quote
+  
+  #+begin_quote
+  ALS, DLC:GW.
+  
+  5. General Braddock and his staff had probably stopped at the home of Enoch Enoch, just east of the Cacapon River in Hampshire County, on their way to join the troops at Cresap’s.
+  #+end_quote
+
+  
+Cite as
+“Robert Orme to George Washington, 2 March 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-02-02-0319. [Original source: The Papers of George Washington, Colonial Series, vol. 2, 14 August 1755 – 15 April 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, pp. 320–322.]
+
+** George Washington to John Blagg, 7 April 1756
+https://founders.archives.gov/documents/Washington/02-02-02-0331
+#+begin_quote
+To John Blagg
+[Winchester, 7 April 1756]To Lieutenant Blagg, of the Virginia Regiment.
+
+You are to endeavour to keep a communication open with Ensign Hubbard at Enochs; 
+
+LB, DLC:GW.
+
+John Blagg was at this time the lieutenant of Capt. John Savage’s 6th company of the Virginia Regiment.
+
+1. See GW’s Orders, 7 April 1756. Joseph Edwards’s fortified house, or fort, was west of Winchester on the Cacapon River, upstream from Henry Enoch’s fort to the north of it.
+
+2. Ens. Edward Hubbard of Charles Lewis’s company in the Virginia Regiment was on detached duty at Enoch’s. The copyist spelled “Above” as “Alove.”
+#+end_quote
+
+Cite as
+“George Washington to John Blagg, 7 April 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-02-02-0331. [Original source: The Papers of George Washington, Colonial Series, vol. 2, 14 August 1755 – 15 April 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1983, p. 332.]
+** George Washington to Henry Harrison, 21 April 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0029
+
+:PROPERTIES:
+:URL: https://founders.archives.gov/?q=Enocks&s=1111311111&sa=&r=5&sr=
+:END:
+
+*** Excerpt
+#+begin_quote
+George Washington to Henry Harrison, 21 April 1756
+To Henry Harrison
+[Winchester, 21 April 1756]To Captain Harrison, Commanding at Edwards’s.
+Sir,
+It is out of my power at this juncture to supply you with any Provision. Therefore I would have you apply to Edwards, to whom I write. Acquaint him, that whatever he expends, he shall receive a reasonable satisfaction for: and hint to him, that without his compliance the Garrison now there, must depart to this place. You are likewise ordered (on Mr Hubbard, at Enocks, signifying his want of assistance in aiding his retreat to your Fort) to supply him with at least fifty of your Garrison, who will Escort that under his command to your place, where he is ordered. Dispatch the enclosed letter,1 on arrival, by Express. I am &c.
+
+G:W.
+
+April 21st 1756.
+LB, DLC:GW.
+
+1. This was probably GW’s letter of this date to Edward Hubbard at Enoch’s fort.
+
+
+CITE AS
+“George Washington to Henry Harrison, 21 April 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0029. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, p. 29.]
+#+end_quote
+
+[2026-03-12 Thu 16:11]
+
+** Council of War, 23 April 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0039
+
+
+*** Notes
+Apparent decision to abandon and burn Enock's fort
+*** Excerpt
+#+begin_quote
+Council of War, 23 April 1756
+Council of War
+At a Council of War, Held at Winchester, April 23d 1756
+
+Colonel George Washington, President.
+Present, Governor James Innis–
+Captain Mercer                          
+Captain Peachy  Members Captain Stewart
+Lieutenant Eustace      Lieutenant Hall
+Lieutenant Gist         Lieutenant Lowry
+Colonel Washington asked the opinion of the Council, whether it was most elligible to evacuate the small Stockade at Enocks’s, and draw all the men out of Edwards’s, except so many as were absolutely necessary for the defence of that place, and order them to join us here; as having a few men scattered in so many places can not answer the original intention of that disposition: vizt Protecting that part of the Country, which is now abandoned by the Inhabitants, and we at the same time deprived of the aid we would receive, by bringing those who garrison it here. And as, without an immediate reinforcement here, it is impracticable either to send a supply of Provisions to Edwards’s, or to open a communication to Conogochieg, from whence only we can hope for getting Provisions even for the few men in these Quarters: And as the few men at Enocks’s and Edwards’s, can only act upon the defensive and can not hold out for want of Provisions—If it would not be better for them to escort the few Inhabitants now under their protection, to the interior part of the Settlement where they can be supplied with Provisions; and by that reinforcement, we be enabled to open a communication with Conogochieg—or wait the uncertain arrival of the militia for their Relief.
+
+It is the unanimous opinion of the Council, that Enocks’s Fort should be immediately evacuated and burnt; to prevent its being of service to the Enemy: That its Garrison, and all that can be spared from Edwards’s, do join us with the utmost expedition; bringing such of the Inhabitants under their escort, as chuse to come.
+
+The opinion of the Council was likewise asked, whether it was most advisable for the Sergeants Command to be ordered to retreat, or to maintain that trifling Stockade.1 It is unanimously agreed, that as there are no late accounts from thence, consequently can not so well judge of their circumstances; and as giving an absolute Order either to stay or move, might produce their ruin—That a Discretionary Power should be sent them, either to stay or retreat, as to them might appear most safe.
+
+LB, DLC:GW.
+
+1. The “trifling Stockade” was probably Horner’s (Homer’s) fort. See GW to Henry Harrison, 20 April 1756, n.2.
+
+
+CITE AS
+“Council of War, 23 April 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0039. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, pp. 38–39.]
+#+end_quote
+
+[2026-03-12 Thu 16:18]
+
+** George Washington to Edward Hubbard, 23 April 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0041
+
+:PROPERTIES:
+:URL: https://founders.archives.gov/?q=Enocks&s=1111311111&sa=&r=7&sr=
+:END:
+
+*** Excerpt
+#+begin_quote
+George Washington to Edward Hubbard, 23 April 1756
+To Edward Hubbard
+[Winchester, 23 April 1756]To Ensign Hubbard. commanding at Enocks’s Fort.
+Sir,
+It has been determind here in a Council of War, that it would be most advisable for you to evacuate your Fort at Enocks’s; destroy it, and join Captain Harrison at Edwards’s, with your party, stores, and the inhabitants. As we are not acquainted with their situation at Cox’s, it was thought best that you should send the Sergeant there, a conditional order to join you at Enocks’s, or keep possession where he is (whichever he and the Inhabitants, from the situation of affairs, think most advisable;) until we can send them some assistance, which will, I hope, be very soon; as I expect to be joined by a number of men shortly.
+
+You are to send him this order immediately. If he retreats to your party, you must order him to destroy the Fort, ere he quits the place.
+
+I would recommend it to the Inhabitants, to drive down their Cattle, &c. with them. Yours
+
+G:W.
+
+April 23, 1756.
+LB, DLC:GW.
+
+
+Reference
+CITE AS
+“George Washington to Edward Hubbard, 23 April 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0041. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, p. 41.]
+#+end_quote
+
+[2026-03-12 Thu 15:30]
+
+** Orders, 11 May 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0111
+
+*** Excerpt
+#+begin_quote
+Orders, 11 May 1756
+Orders
+Parole: London.
+
+Winchester: Tuesday, May 11th [1756]
+As there is a Report, that some Indians have been seen on the road between this and Enock’s
+
+...
+
+LB, DLC:GW.
+
+
+CITE AS
+“Orders, 11 May 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0111. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, p. 118.]
+#+end_quote
+
+[2026-03-12 Thu 16:26]
+
+** Orders for the Militia, 15 May 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0132
+
+*** Notes
+Fort not destroyed?
+*** Excerpt
+#+begin_quote
+Orders for the Militia, 15 May 1756
+Orders for the Militia
+[Winchester, 15 May 1756]
+Orders for the Militia.
+
+...
+In consequence of the council of War that was held the 14th instant: Such part of the Militia of the several counties as rendezvous’d at this place, and were detained here; are ordered to be posted as follows vizt.1
+
+At Enock’s—Lieutenant Bebb, with two Sergeants, and thirty-five private men, from Louisa.
+
+
+CITE AS
+“Orders for the Militia, 15 May 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0132. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, pp. 136–137.]
+#+end_quote
+
+[2026-03-12 Thu 16:30]
+
+** Memoranda, 16 May 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0143
+
+*** Excerpt
+#+begin_quote
+Memoranda, 16 May 1756
+Memoranda
+[Winchester, 16 May 1756]
+...
+A copy of these orders also given to Lieutenant Bebb, of the Louisa Militia; who was ordered to Henry Enocks’s.2
+
+LB, DLC:GW.
+
+2. Lt. Thomas Bibb was first lieutenant in Capt. Joseph Fox’s company of volunteer rangers from Louisa County in 1755.
+
+
+CITE AS
+“Memoranda, 16 May 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0143. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, p. 145.]
+#+end_quote
+
+[2026-03-12 Thu 16:35]
+** Council of War, 10 July 1756
+https://founders.archives.gov/documents/Washington/02-03-02-0235
+
+*** Notes
+Building a ?New? ?2nd? fort at Enocks?
+*** Excerpt
+#+begin_quote
+Council of War, 10 July 1756
+Council of War
+A Council of War, Held at Fort-Cumberland, July 10th 1756.
+Colonel George Washington—President.
+... 
+The President having informed the council that the General Assembly had resolved upon building a chain of Forts for the protection of the Frontiers—To begin at Henry Enocks’s, on Great Capecapon, and extend in the most convenient line to Mayo-river the building of which forts was not to exceed two thousand pounds1—and as the fixing upon the places judiciously was a matter of great importance to the country—He desired their advice thereupon: and put the following Questions—First Whether it was advisable to begin the said chain of forts at Henry Enocks’s on great capecapon?
+
+The council was unanimous in opinion that it was not—Because, as the Province of Maryland had abandoned their Settlements on potowmack to a great distance it left a fertile and populous district, from that down to Maidstone, at Watkins’s Ferry, exposed to incursions of the Enemy; and to which there lead several warrior paths from Raystown and Susquehannah, much frequented by the Indians.
+
+...
+Thirdly: Where ought the second Fort to be built? The Council having considered the situation of the country and the Body of Inhabitants to be defended, are of opinion, that at or near to Henry Enocks’s plantation on great capecapon, is the most advisable place to build the second fort on.
+
+It defends the inhabitants on the waters of capecapon—is contiguous to the Settlements on the heads of the waters of sleepy and back-creeks: and maintains the communication with the Forts on Patterson’s-creek, &c.
+
+Fifthly: Is it then necessary to have a fort between that at Enocks and Ashby’s?
+
+...
+
+The Forts built by Captain Waggener have had the desired effect—The inhabitants of that fertile district, keep possession of their Farms; and seem resolved to pursue their Business under cover of them.
+
+LB, DLC:GW. GW later enclosed a copy of these minutes of the council of war in his letter to Dinwiddie, 4 Aug. 1756.
+
+2. The mouth of Sleepy Creek at the Potomac River was well to the north and east of Henry Enoch’s place on the Cacapon River. 
+
+3.... A portion of the road from the South Branch to Enoch’s—that part between the Little Cacapon and Enoch’s—probably corresponded with the road built for Braddock’s troops in 1755. See GW to Henry Woodward, 4 May 1756, n.1.
+
+
+CITE AS
+“Council of War, 10 July 1756,” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-03-02-0235. [Original source: The Papers of George Washington, Colonial Series, vol. 3, 16 April 1756–9 November 1756, ed. W. W. Abbot. Charlottesville: University Press of Virginia, 1984, pp. 243–246.]
+#+end_quote
+
+[2026-03-12 Thu 15:55]
+
+** Diary entry: 8 October 1770
+https://founders.archives.gov/documents/Washington/01-02-02-0005-0029-0004
+- 1770, 8 Oct, Diary Entry :: National archives GW diary entry 8 Oct 1770 
+  [Diary entry: 8 October 1770]
+  #+begin_quote
+  ...The distance from Pritchards to Cresaps according to Computation is 26 Miles, thus reckond; to the Fort at Henry Enochs2 8 Miles (road exceedg. bad) 12 to Cox’s3 at the Mouth of little Cacapehon and 6 afterwards.
+  #+end_quote
+  
+   ...
+  #+begin_quote
+  2. Henry Enoch had received a grant on 22 April 1753 for 388 acres on Cacapon River based on a survey done for him by GW in 1750. He received a further grant of 271½ acres in Hampshire County in 1761 (Northern Neck Deeds and Grants, Book H, 280, Book K, 228, Vi Microfilm). See also keith [1]. Enoch’s fort, erected after Braddock’s Defeat, was built at the forks of the Great Cacapon River, on the road from Winchester in what is now Hampshire County, W.Va. GW had suggested the fort on a list of frontier defenses drawn up in 1756 (DLC:GW).
+  #+end_quote
+
+  “[Diary entry: 8 October 1770],” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/01-02-02-0005-0029-0004. [Original source: The Diaries of George Washington, vol. 2, 14 January 1766 – 31 December 1770, ed. Donald Jackson. Charlottesville: University Press of Virginia, 1976, pp. 287–288.]
+  
+** Diary entry: 28 November 1770
+https://founders.archives.gov/documents/Washington/01-02-02-0005-0031-0009
+
+*** Excerpt
+#+begin_quote
+[Diary entry: 28 November 1770]
+Wednesday 28th. The Old Town Gut was so high as to Wet us in crossing it, and when we came to Coxs., the River was Impassable; we were obligd therefore to cross in a Canoe & swim our Horses. At Henry Enochs at the Fork of Cacapehon we dind, & lodgd at Rinkers. The distances thus computed—from the old Town to Coxs. 8 Miles—from thence to Cacapehon 12 and 18 Afterwards in all 38 Miles. The last 18 I do not think long ones.
+
+
+CITE AS
+“[Diary entry: 28 November 1770],” Founders Online, National Archives, https://founders.archives.gov/documents/Washington/01-02-02-0005-0031-0009. [Original source: The Diaries of George Washington, vol. 2, 14 January 1766 – 31 December 1770, ed. Donald Jackson. Charlottesville: University Press of Virginia, 1976, p. 324.]
+#+end_quote
+
+
+- Search for enoch :: https://founders.archives.gov/?q=Enochs%20Period%3A%22Colonial%22&s=1111211111&sa=&r=1&sr=
+
+
+From the primary sources, give me a timeline post Braddock
+

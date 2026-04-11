@@ -1,0 +1,422 @@
+#+title:      Esther Josephine Morrison nee Free, 1910-2003
+#+date:       [2026-03-16 Mon 14:55]
+#+SUBTITLE: Something to call my own
+#+Author: George Morrison Jones
+#+signature:  2003=morrison=esther=free
+#+email: gmj@pobox.com
+#+filetags:   :biography:public:
+#+identifier: 20240226T063622
+#+BIBLIOGRAPHY: family.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+#+OPTIONS: author:t date:t 
+#+OPTIONS: html-postamble:nil
+#+LATEX_COMPILER: pdflatex
+#+LATEX_HEADER: \usepackage{pmboxdraw}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \preauthor{\begin{center}\large}
+#+LATEX_HEADER: \postauthor{\par\normalsize gmj@pobox.com\end{center}}
+#+OPTIONS: email:nil
+#+latex_class: article
+#+latex_class_options: [titlepage]
+#+MACRO: conditional-title (eval (if (org-export-derived-backend-p org-export-current-backend 'latex) "#+OPTIONS: title:t" "#+OPTIONS: title:nil"))
+{{{conditional-title}}}
+#+last_saved: 2026-03-16 15:11
+
+
+This is my attempt to record "oral history", things I have been told,
+things I remember (or mis-remember).  It is largely not fact-checked
+(dates, names, etc.).
+
+* Esther Josephine Morrison née Free
+** A small kindness in a big family long remembered
+When Grandma died, she still had a little doll-bed that one of her
+brothers had made for her out of a few scraps of wood and some nails.
+
+  #   Large family, not rich, limited options for women
+  # + have a unique story to tell.
+  #   childhood, 7 siblings, school, marriage, 2nd life in worthington
+
+She was born in 1910 in a small house outside of Jeffersonville,
+Ohio. She was one
+of the middle children of what would be a family of 11 kids.  When she
+was born, her father's whereabouts where unknown.  This always stuck
+with her.  Shortly after that, they moved two a two room house near
+Austin, Ohio to (I'm guessing) be near her uncle Omar Free who had
+a farm and appears to have been somewhat more well off (there were
+stories of rides in his car c.a. 1920).  I think Grandma was named for
+his wife "Hester".
+
+Her father was back in the picture, and they added rooms to the small
+house, but growing up like that, there was very little you could call your own.
+That doll bed, and the act of kindness that it represented, were apparently
+precious to her.
+
+** Hard work at home and school
+To hear her tell it, her mother favored the boys. As her older sisters
+(Nellie, Bess) got married, more of the job of helping her mother fell
+to her. She went to the brick one-room school house down the road and
+later Frankfort High School. She worked hard and excelled, becoming
+class valedictorian. Hard work and doing well at school where something
+she could call her own. Towards the end of her life, we visited the
+high school, soon to be torn down, and as we drove away I heard her
+softly singing the alma matter to herself. Those were her glory days.
+
+She was always driven to work hard, to do the right thing, and to do
+it well, which in her life meant a lot of housework, caring for family,
+and jobs caring for others. To go slightly Freudian, I think she never
+stopped trying to prove herself to a mother and father who never provided
+the affirmation she sought (possibly because they were just trying
+to keep food on the table).
+
+Her brother Luther, next older, died when Grandma was very young.  She
+thought he was hiding and went looking for him behind doors.
+
+One of her best friends growing up was Laura Crago.  In the it's a
+small world department we're almost certain she was related to Steph's
+adoptive grandmother Mary Benson nee Crago.  I recently found out
+Laura's maiden name was Free, so probably a cousin of some sort, by marriage?
+
+** Morrisons, Marriage and Mother-in-Law
+She worked for the Morrison after (during ?) high school, as my great
+grandmother moved into her 80s. Irnie's wife Ada (Rinkliff)
+[13-DEC-1893 to 16-OCT-1920] had died in childbirth,
+so the household was my great grandmother, Grandpa (43) and
+his older brother Irnie. Note, that had Ada not died, it's likely they
+would not have needed domestic help 9 years later, and this narrative
+would never have happened. Life.
+
+Gradma began as a freshman at Willmington College in the fall of 1929.
+In October, Grandpa drove there, picked her up and they went to Maysville,
+KY and got married where the age of consent was lower. She was 19,
+he was 43. Early letters to her sisters were signed "Mrs. George L.
+Morrison", perhaps the custom of the time, but perhaps still seeking
+something to call her own (identity, social status)
+
+When I asked her about why they got married her answer was "It seemed
+like the thing to do."  She was also afraid that she would not be able
+to maintain her own high standards with college level work.  And one
+alternative seemed to be returning home, which (inferring) was a
+situation she desperately wanted out of.
+
+Of course once married, she picked up where she left off with domestic
+chores and caring for a mother-in-law who I infer was very proud in
+her own ways and (guessing) maybe not thrilled with the marriage of
+her son.
+
+My great-grandmother had a cookbook/housekeeping guide that was
+dedicated to "The Pert Housewives of 1876" and contained a section on
+dealing with "the help" which consisted mostly in deriding "girls"
+(sic) as flighty, un-reliable, a bad influence and lazy.  That was NOT
+Grandma.  But it may have influenced her reception.
+
+The story goes that one time Grandma was (obsessively I'm sure) cleaning
+the basement stairs in a dirty dug-out cellar under the house that
+was likely was impossible to keep clean, and my great grandmother
+said "Pa would never let me do that". Ouch. Still no approval.
+
+** "In a Kingdom By The Sea..."
+Poetry was a lifelong love. Philip (1933) was named Philip Lee, after
+Poe's Anabell Lee. Mom (1936) was named Elaine, after Tennyson's "Elaine
+the lovable, Elaine the fair, Elaine the lily maid of Astalot." You
+could find solace in poetry, you could connect with worlds far away,
+with noble thoughts, tragedies and triumphs, and you didn't need anyone's
+approval.
+
+She often recounted a story to me that someone once asked in an offhand
+way "What is life?", to which she replied (with gleam in her eye) by
+quoting (our "cousin Henry") Longfellow's "A Psalm of Life".
+
+#+begin_quote
+Tell me not in mournful numbers,
+'life is but an empty dream',
+for the soul is dead that slumbers,
+and things are not what they may seem,
+
+Life is real, life is earnest,
+and the grave is not it's goal,
+dust thou art, to dust returneth,
+'twas not spoken of the soul"
+
+...
+#+end_quote
+
+I've memorized that one too. She probably had hundreds memorized, at
+least in part. I have a poetry book in which she marked her favorites:
+"The Pert Chicken", "The Dash", "The Mighty Casey", "The Midnight Ride
+of Paul Revere", "'Ya Gotta Get a Glory (in the work you do)"....
+
+** Raising Kids in Hard Times
+The great depression happened (the market crashed 2 weeks after their
+wedding). WWII happened. Philip and Mom were born. My great
+grandmother died.   At this point (and this is interpretation)
+I think she /finally/ had a life she could in some sense call her own.
+She was out of the crowded, poor conditions of her youth, she was now
+"the woman of the house" with two young children to raise and some
+status in the community/church.  4-H was a thing.  County Fairs were a
+thing.  The Dry Run United Methodist Church and (my memory) the annual
+chicken supper fund-raisers where a thing. If old school pictures are
+any indication, Mom and Philip were dressed neatly, in cloths Grandma
+likely made.  In later years, her button box was a fascinating source
+of entertainment for young grandchildren.  Laurel now has the foot-pump
+Singer sewing machine which once ran a needle through mom's finger.
+
+Mom was born February 19, 1936 which weather records show was one of
+the coldest on record. The day she was born, a glass of water on the
+bed beside Grandma froze. No central heating. Just wood Grandpa cut.
+Grandpa apparently also had the 19th century belief in the benefits
+of fresh air and slept with the windows open in the winter. They sometimes
+kept a heated iron under the covers. I still have some of their hand-made
+quilts.
+
+Philip and Mom were both (like Grandma) valedictorians at
+Frankfort. More interpretation: I think she succumbed to the
+temptation that many parents have to try, in some sense, to live
+through their children.   In Grandma's case I think one form this took
+was driving Mom, and Philip in particular, to excel and move towards
+respected careers (that would reflect back on her): Mom got an
+education degree, and Philip started down the path to becoming a
+doctor.
+
+** "I wonder how the old folks are at home..."
+   "...I wonder if they'll miss me when I'm gone"
+
+Philip went off to college (Bowling Green) in 1951.  Mom went to
+the Ohio University extension in Chillicothe 54-57, then off to main
+campus for her final year, where she met Dad and the rest is
+history....
+
+Irnie [1-OCT-1882 to 12-DEC-1954] died on the way home from church (on Mom's shoulder as
+she drove). He left his portion of the farm "to George [Morrison] for
+his lifetime, then to" Mom and Philip.
+
+Mom came home from Newfoundland and had Mike in the hospital in
+Chillicothe while Dad was stationed in Newfoundland or VA Beach.
+
+In the early sixties they transitioned to being empty-nesters.  Philip
+and Lilian settled in Long Island, Mom and Dad in Oxford (Miami U) and
+then Worthington/Columbus.  There were visits from the growing young
+families.  Mark was left in custody of Grandma once as we took a trip
+west.
+
+But Grandpa turned 80 in 1965, and the story goes that he could look
+out across the fields and see the beautiful fall leaves, but Grandma
+could only see the broken down picket fence.  Different people.
+Literally, different outlooks.
+
+She went with us on our ?1968? road trip to Newfoundland.  Salt cod.
+salty, salty salt cod.
+
+As a still-full-of-energy 55 year-old, the age difference was becoming
+a problem. They sold the farm and moved to Worthington, first in an
+apartment then at 369 Franklin Ct to be near us. I was able to ride
+my bike over "the back way" and often did.
+
+** Gee !!!, a second family.
+
+Grandma could not sit still. She once again began baby-sitting for
+extra money, and wound up with a long term job at the Gee's, essentially
+raising a second family. Mike, Steve and Geoff Gee were almost exactly
+our (Mike, George, Mark's) ages and at various times the 6 of us were
+good friends. Eric Gee was born later. I think Geoff was in Mark's
+wedding. Mike Gee was one of only about 20 people at Grandma's graveside
+service, due to the February 2003 blizzard. Geoff wound up as professional
+musician in the Boston area and dedicated one of his CDs to her. I
+have a poetry anthology Steve gave her for Christmas one year. Mr Gee
+was an attorney. They paid into social security for her, which enabled
+her to draw it in later years.
+
+Grandpa died in 1974 after a long battle with Parkinson's disease.
+Mom and grandma cared for him in his last days at our house on Flint
+Rd. and were completely exhausted afterwards. We took a road-trip to
+California later that year to give them a break. Ironically, Grandma
+hired Mrs. Todd, an older black lady, to care for Grandpa some of the
+time she worked at the Gees.
+
+The nest became un-empty twice. Beth Morrison (Denton) lived with her
+while attending Ohio State 78-82, and I lived there for about a year
+before our marriage in 87.
+
+** 1990s and 90
+
+She continued her lifelong calling of caring for others, doing somewhat
+regular sitting for Steve Hill, the "differently-abled" (e.g. "retarded",
+with no pejorative intent) son of an older couple in Worthington who,
+themselves, needed a night out as a break. I recall her talking about
+the Hills efforts to make arrangements for his care after they were
+gone. Life.
+
+I don't remember too many details, but one night when she was at 8080
+Flint (sick?) she said she had a vision of an angel appear while
+sleeping in the room that Grandpa had died in (Mark's room).
+There may be an account of it in my archives.
+
+In 2000 we had a large birthday party for her on her 90th birthday.
+The entire family was there.
+
+Mom and Dad retired, sold 8080 Flint Rd. and moved to McGregor
+around 1996.
+Grandma, then around 86, sold her house and moved in with them
+in an apartment in the basement.   These are likely the years the
+great grandchildren will remember.  There was an attempt at a sale,
+but that's not how things were done in suburbia.  Much of the
+left-over furniture got carted to Rosedale (home of Rosedale Bible
+College where Daniel later attened) and may still be use.  When the
+Realtor listed her house she put the line "Mrs. Clean Lives here."
+Some of her money want to buy the McGregor house.
+
+At McGregor, there were hours of reading together on the couch, of
+watching Jeopardy!, and various shows/movies, playing games, cooking,
+etc. She was active in the "Faithful Followers" group at Orange Road
+Friends Church, where Mom and Dad had attended for 20+ years.
+
+I do have Mom's narrative of her last days.
+
+I had taken a job in Virginia.  I delayed going down a week because
+
+I had taken a job in Virginia.  I delayed going down a week because
+she had been in the hospital.  She died on February 14, 2023 13 days
+after I went to Virgina.  I had to drive home into the face of a
+blizard to get back, and got as far as Zanesville before it hit.  She
+hated snow.
+
+That morning, I had been having my quiet time and ended around 6, went
+out in the hall to go down to my car, but felt the urgent need to go
+back in and pray more.  I did so, and got a strong sense of God saying
+"I'm here in Virgina with you too" (See the Psalms "Where can I go
+from your presence...if I go the far side of the sea, you are
+there...").  I got the call at work about 40 minutes later, and
+realized that my unexplained need for more prayer happened at the time
+she was dying.  To quote Neil Young "There's more to the picture, than
+meets the eye..."
+
+For the early part of her life, she had very little to call her own.
+Part of her response was to work hard at the things she did to, I
+think, try to prove herself.  That stuck with her much of her life.
+So did resentments that started with her fathers absence at birth,
+her mother's favoring of "the boys", and differences with Grandpa.
+
+Mom said that, in the last week or two of her life, she seemed to find
+a way to let it go and be at peace.  I need to re-read Mom's narrative of
+that time.  I think we all carry more worries than we need to.
+
+#+begin_quote
+Just as I am, though tossed about
+with many a conflict, many a doubt,
+fightings and fears within, without,
+O Lamb of God, I come, I come.
+#+end_quote
+
+P.S. I also have a copy of the autobiography she wrote for her
+Grandchildren.   Lots of poetry.
+
+
+* Timeline
+
+TIMELINE
+  |        WHEN | WHAT                                    | TYPE            | WHERE                           | WHO                              | HOW               |
+  |-------------+-----------------------------------------+-----------------+---------------------------------+----------------------------------+-------------------|
+  |        1910 | Born                                    | Life Event      | Near Jeffersonville, Ohio       | Russell E. and Belle Steele Free |                   |
+  |        1929 | Valedictorian, Frankfort HS             | Education       | Frankfort, Ohio                 |                                  |                   |
+  |        1929 | Housekeeping for Morrisons              | Financial       | Morrison Farm                   |                                  |                   |
+  |        1929 | Freshman, Wilmington College            | Education       | Wilmington, Ohio                |                                  |                   |
+  |        1929 | Married                                 | Life Event      | Maysville, Ky                   | George L. Morrison               |                   |
+  |        1933 | Child Born                              | Life Event      | Farm. Union Twp, Ross Co., Ohio | Philip Lee Morrison              |                   |
+  |        1936 | Child Born                              | Life Event      | Farm. Union Twp, Ross Co., Ohio | Lois Elaine Morrison             |                   |
+  |      1950s? | Father dies                             | Life Event      |                                 | Russell E. Free                  |                   |
+  |       1962? | Mother dies                             | Life Event      |                                 | Belle Steele Free                |                   |
+  |        1968 | Sold Farm, bought house?                | Financial       | 369 Franklin Ct., Worthington   |                                  | Date per Philip   |
+  |        1968 | Moves to Worthington                    | Move            | Apartment                       |                                  | Date rough memory |
+  |  1960-1990s | Housekeeping, "Baby"sitting             | Financial       | Worthington                     |                                  |                   |
+  | 1970s-1980s | Housekeeping, raised Gee boys , paid SS | Financial       | Worthington                     |                                  |                   |
+  |       1996? | Sold House, Moved in with Mom,Dad       | Financial, Move | McGregor                        |                                  |                   |
+  |        2003 | Died                                    | Life Event      | McGregor, Worthington, Ohio     |                                  | Old Age.  Stroke? |
+
+* Writing Guidelines                                               :noexport:
+** Writing style/guides
+  - Keep it short (3000 words or less)
+  - Use knowledge of finances loosely as writing prompts
+  - Highlight reel - Triumphs, turning points, mistakes.  Not gory
+    details.
+  - Writing process
+    + draft
+    + sleep on it
+    + revise
+    + have friends and family review
+      o what was most interesting?
+      o what was boring or confusing?
+      o what parts leave you wanting to know more?
+      o what should be left out?
+
+
+** ChatGPT suggestions for writing narrative
+
+gmj@pobox.com
+what are some guidelines for writing short, interesting biographical
+narratives
+
+Writing a short, interesting biographical narrative can be a challenging
+task, but there are some guidelines that can help make the process
+easier and more effective. Here are some tips to consider when writing
+a biographical narrative:
+
+- Choose a compelling subject :: The first step in writing a
+  biographical narrative is to choose a subject that is interesting
+  and relevant. Look for individuals who have
+
+  Esther J. Morrison nee Free
+
+  + made significant  contributions to their field
+    My grandmother.
+  + overcome obstacles or challenges, or
+    Large family, not rich, limited options for women
+  + have a unique story to tell.
+    childhood, 7 siblings, school, marriage, 2nd life in worthington
+
+- Determine the scope and purpose of your narrative :: Decide on the
+  focus of your narrative. What aspects of the person's life do you
+  want to highlight? Are you trying to
+
+  + >>> provide a comprehensive overview of their life or
+  + a specific period or event?
+  + >>> Is the purpose of the narrative to inform, inspire, or
+    entertain?
+
+    Explain.  Interpret.  Why was she so driven?  Why was she so
+    compelled to do what was expected, yet resentful of the
+    men/authority figures in her life?
+
+- Research the subject :: Gather information about the subject from
+  various sources, including books, articles, interviews, and other
+  biographical narratives. Pay attention to key events, people, and
+  places in their life and use this information to create a timeline
+  of their life.
+
+  + Info from my head, mostly.
+  + Make timeline
+
+- Use descriptive language and sensory details :: To make your
+  narrative more interesting and engaging, use descriptive language
+  and sensory details to bring the story to life. Use vivid and
+  evocative language to describe people, places, and events.
+
+- Keep it concise :: Since you're writing a short biographical
+  narrative, you need to keep it concise. Choose the most important
+  details and events, and focus on telling a compelling story.
+
+  + 3000 words or less
+
+- Focus on a central theme or message :: A well-crafted biographical
+  narrative should have a central theme or message that ties
+  everything together. Think about what you want your readers to take
+  away from the story, and use this as a guiding principle as you
+  write.
+
+  "Something to call my own""
+
+- Edit and revise :: After you've written your biographical narrative,
+  take time to edit and revise it. Look for ways to improve the
+  clarity, flow, and coherence of your writing.
+
+By following these guidelines, you can create a short, interesting
+biographical narrative that captivates your readers and provides insight
+into the life of your subject.
