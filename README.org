@@ -1,0 +1,24 @@
+#+last_saved: 2026-04-11 13:59
+
+* What is this?
+
+This is a collection of family stories/histories. For reasons that go back 150 years or more I have inherited a large amount of both family artifacts and oral tradition. This is part of my attempt to capture the oral traditon and pass on bits of what I know/have to those in current and future generations of our family. Others are welcome to read (comment, etc.)
+
+* Why is this?
+
+I wanted to get the oral tradition out of my head and make it and the other materials I have accessible to future generations.
+
+* What Formats Are Used?
+
+For most of the stories there exist 3 versions of the file: ".org", ".html" and ".pdf". The ".org" version is an emacs org mode file (a markup language in the same vein as markdown), a .pdf version, formatted with LaTeX which should be the most aesthetically pleasing when printed, and an .html version if you want to view it in a web browser. The .pdf and .html files are generated form the .org file. The .org file is essentially a plain text file and is considered the "master" file.
+
+* What else is here?
+
+There is also a BibTeX database of sources cited in family.bib
+
+* The long term picture
+- A text format is used as the master to minimize future file format issues (e.g. no Word 97 format)
+- It is being stored initially on github to provide a level of redundancy, accessibility, disaster protection not available on my systems in my house.
+- The intent is to also mirror to archive.org for electronic archival
+- Copies printed on archival grade paper will also be distributed to those who might care, because as much as we all may love electronic data, all electronic archives require active management (power, hosting, etc) to remain online.  The author's first job after college was at CompuServe (a predecessor of AOL).  Most of the content of the CompuServe "Forums" (discussion groups) was deleted because it had "no commercial value".  History of the early online era is just gone.   Maintaining online content requires active intent.
+  Paper can sit in closets or attics for a century or more with no actions required of anyone.  Getting rid of paper records takes active intent.
