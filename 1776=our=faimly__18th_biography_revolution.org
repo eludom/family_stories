@@ -6,7 +6,7 @@
 #+filetags:   :18th:biography:public:revolution:
 #+identifier: 20260224T073758
 #+signature:  1776=our=faimly
-#+last_saved: 2026-04-11 12:43
+#+last_saved: 2026-04-17 15:01
 #+BIBLIOGRAPHY: family.bib
 #+cite_export: csl chicago-fullnote-bibliography.csl
 #+OPTIONS: author:t date:t 
@@ -350,4 +350,17 @@ Amos Porter Sr. (1742-1807) — Called up, 1775, Lexington & Concord
 #+end_example
 
 
+* Archive Info
+#+begin_src 
+Digital archive: https://archive.org/details/1776ourfaimly-18th-biography-revolution
+Source repository: https://github.com/eludom/family_stories/
+Deposited: Internet Archive, April 17, 2026
+#+end_src
 
+
+* arcive.org metadata                                              :noexport:
+** Description
+A personal family history essay connecting several family lines to the major events of 18th-century America, written as the United States approaches its 250th anniversary. Traces the Morrison family line through the maternal side of the author — George Leonard Morrison (1885–1974) and Esther Free Morrison (1910–2003) — weaving together oral history, primary sources, and genealogical records.
+Stories include: Amos Porter Sr., called to arms the night of Paul Revere's ride (April 19, 1775); Amos Porter Jr., one of the founders of Marietta, Ohio as part of the Ohio Company (1788), tracing back to John Alden and Priscilla Mullins of the Mayflower; the Enochs family of the Cacapon River valley in present-day West Virginia, whose land George Washington surveyed in 1750 and whose property served as a military waypoint and fort site during the French and Indian War; and Frederick Free, a Hessian soldier who deserted, joined the Patriot cause, and eventually settled in Ross County, Ohio. Also touches on the family's later involvement in the Underground Railroad. Draws on family manuscripts, published genealogies, Washington's diaries and papers, and the author's own travels retracing these routes.
+** Keywords
+American Revolution, genealogy, family history, 18th century America, Hessian soldiers, Ohio history, Northwest Territory, Enochs family, Porter family, Free family,
